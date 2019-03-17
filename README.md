@@ -1,4 +1,4 @@
-# Pong (UCR Winter 2018 EE/CS120B)
+# Pong (UCR Winter 2019 EE/CS120B)
 
 # Demo Video (Youtube) 
 
