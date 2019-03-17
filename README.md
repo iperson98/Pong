@@ -6,7 +6,7 @@ Link:
 
 # Downlaod Repository (src code)
 
-Run command in terminal:
+Run command in terminal (use git or checkout with link): https://github.com/iperson98/Pong.git
 
 
 Move files from src folder to Atmel Studio 6 or later.
